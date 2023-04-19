@@ -50,7 +50,7 @@ Beware of precision when using floating-point numbers!
 
 Here is an example :
 
-![Example](include/exempleutilisation.png)
+![Example](include/exempleutilisation107.png)
 
 It is possible to visualize the resulting curve of the output using gnuplot:
 (I used a "drawer.gnu" file to parameterize gnuplot so that it directly uses the output of my program.)
