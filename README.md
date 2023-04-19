@@ -64,4 +64,4 @@ It is possible to visualize the resulting curve of the output using gnuplot:
 
 The __"-h"__ (man of the program) :
 
-[-h](include/h107.png)
+![-h](include/h107.png)
