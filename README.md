@@ -20,7 +20,7 @@ Attention à la précision lors de l'utilisation de nombres à virgule flottante
 
 Voici un exemple d'utilisation : 
 
-![Exemple de décomposition](include/exempleutilisation107.png]
+![Exemple de décomposition](include/exempleutilisation107.png)
 
 Il est possible grâce à _gnuplot_ de visualiser la courbe résultante des résulats :
 ( j'ai utilisé un fichier "drawer.gnu" pour paramètrer _gnuplot_, de façon à ce qu'il utiliser directement les output de mon programme.)
