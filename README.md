@@ -58,3 +58,10 @@ It is possible to visualize the resulting curve of the output using gnuplot:
 ![Use of the graph](include/exemplerendu.png)
 
 ![Graph](include/output.png)
+
+---
+---
+
+The __"-h"__ (man of the program) :
+
+[-h](include/h107.png)
